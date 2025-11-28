@@ -79,6 +79,7 @@ credentials.json
 
 # Archivos de atribuciones y metadatos
 Attributions.md
+DEPLOYMENT.md
 
 # Output de TypeScript
 *.tsbuildinfo
