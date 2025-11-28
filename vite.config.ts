@@ -3,9 +3,9 @@
   import react from '@vitejs/plugin-react-swc';
   import path from 'path';
 
-  export default defineConfig({
-    base: '/nevra_presentacion_ejecutiva/',
-    plugins: [react()],
+export default defineConfig({
+  base: '/',
+  plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
